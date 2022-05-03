@@ -56,7 +56,5 @@ class OrdersTab extends StatelessWidget {
         ),
       );
     }
-
-    return Container();
   }
 }
